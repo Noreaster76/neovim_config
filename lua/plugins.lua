@@ -104,6 +104,8 @@ return require('packer').startup(function(use)
         end of lualine config
     --]]
 
+    use { 'NoahTheDuke/vim-just' }                      -- syntax highlighting for justfiles
+
     --[[
         end of my pluginz
     --]]
