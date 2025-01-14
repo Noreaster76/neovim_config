@@ -19,7 +19,6 @@ require('mason-lspconfig').setup({
         "html", 
         'lua_ls', 
         'pylsp', 
-        'ruby_ls',
         'rust_analyzer'
     },
 })
