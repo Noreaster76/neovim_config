@@ -9,6 +9,7 @@ vim.g.loaded_netrwPlugin = 1
 --]]
 require('options')        
 require('keymaps')
+require('neovide')
 require('plugins')
 require('colorscheme')
 require('lsp')
